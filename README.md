@@ -20,7 +20,7 @@ I am a highly motivated engineer with a strong passion for **aerodynamics** and 
   
 - **Structural Analysis (ABAQUS)**: Skilled in performing **mechanical structure calculations** using **ABAQUS**, with experience in structural analysis for both **engines** and **aircraft structures**.
 
-- **Software Development**: Developed and automated **CFD workflows** using **Python** and **C++**, with experience in building custom libraries for uncertainty quantification and simulation automation.
+- **Software Development**: Developed and automated **CFD workflows** using **Python** and **C++**, with experience in building custom code for uncertainty quantification and simulation automation.
 
 - **High-Performance Computing (HPC)**: Proficient in utilizing HPC systems for running large-scale **CFD simulations** efficiently.
 
