@@ -1,62 +1,71 @@
 # 👋 Hi, I'm Luca Mattiocco
 
-I am a highly motivated engineer with a strong passion for **aerodynamics** and the **Aerospace Industry**. I recently completed my MSc Thesis, where I focused on using the **Polynomial Chaos Expansion (PCE)** method to quantify uncertainties in waverider designs (Hypersonics Aircraft).
+I am a dedicated engineer with a deep passion for **aerodynamics** and the **aerospace industry**. My recent work involved completing an MSc thesis focused on applying **Polynomial Chaos Expansion (PCE)** for uncertainty quantification in **hypersonic waverider designs**.
 
 ## 🎓 Education
-- **MSc in Aerospace Computational Engineering** from **Cranfield University**, with a focus on **CFD** and **Aerodynamics**.
-- **MSc in Mechanical Engineering** from **ISAE-Supméca**, specializing in **Numerical Techniques** and advanced mechanical systems.
 
+- **MSc in Aerospace Computational Engineering** from **Cranfield University**, specializing in **CFD** and **aerodynamics**.
+- **MSc in Mechanical Engineering** from **ISAE-Supméca**, with a focus on **numerical methods** and advanced mechanical systems.
 
 ## 🔧 Skills & Expertise
-- **Aero and Fluid Dynamics**: Strong foundation in *aerodynamic principles* and *fluid dynamics* and *turbulence* principles given by lectures during MSc degree and personal lectures such as *Fundamentals of Aerodynamics* (John Anderson, Sixth Edition) and *Turbulence: An Introduction for Scientists* (Peter Alan Davidson).
 
-- **CFD Simulations**: Expertise in hypersonic flows and aerodynamic analysis using STAR-CCM+ and ANSYS Fluent. Skilled in both steady and unsteady simulations, with experience in simulating various aircraft, including the JetStream31, Waverider, and aircraft wings such as the Onera M6 and Cessna wing.
-
-- **Uncertainty Quantification**: Implemented **Polynomial Chaos Expansion (PCE)** to validate and quantify uncertainties in **CFD simulations**.
-
-- **Meshing Techniques**: Experienced with **rotating meshes**, **mesh quality checks**, and achieving **mesh convergence** using **GCI methods** (Roache and Celik).
-
--  **CAD Tools (CATIA)**: Proficient in **CATIA V6** for mechanical engineering projects, including **dimensioning**, **tolerancing**, and **industrialization** of mechanical systems. Hands-on experience in **designing an entire wind turbine mechanical system** and **constructing an aircraft wing from scratch in CAD**.
+- **Aero and Fluid Dynamics**: Strong foundation in **aerodynamics** and **fluid dynamics**, gained through MSc courses and self-study, including *Fundamentals of Aerodynamics* by John Anderson and *Turbulence: An Introduction for Scientists* by Peter Alan Davidson.
   
-- **Structural Analysis (ABAQUS)**: Skilled in performing **mechanical structure calculations** using **ABAQUS**, with experience in structural analysis for both **engines** and **aircraft structures**.
+- **CFD Simulations**: Extensive experience in **hypersonic flows** and aerodynamic analysis using **STAR-CCM+** and **ANSYS Fluent**. Skilled in steady and unsteady simulations, with projects ranging from waveriders to aircraft like the **JetStream31** and **Onera M6** wing.
 
-- **Software Development**: Developed and automated **CFD workflows** using **Python** and **C++**, with experience in building custom code for uncertainty quantification and simulation automation.
+- **Uncertainty Quantification (UQ)**: Expertise in **Polynomial Chaos Expansion (PCE)** for **CFD** uncertainty quantification, using the **EasyVVUQ** Python library. Developed custom integration for **STAR-CCM+** to streamline UQ workflows.
 
-- **High-Performance Computing (HPC)**: Proficient in utilizing HPC systems for running large-scale **CFD simulations** efficiently.
+- **Meshing Techniques**: Proficient in **Fluent** and **StarCCM+** meshing, including advanced methods like **sliding mesh** and **General Grid Interface (GGI)** connections. Well-versed in **mesh quality assessments** and ensuring convergence with **GCI methods** (both Roache and Celik approaches).
 
-- **Post-Processing**: Skilled in post-processing simulation data using a variety of tools, including:
+- **CAD (CATIA V6)**: Experienced in designing and industrializing mechanical systems, including **wind turbines**, **space experiment pods**, and complete aircraft wings. Skilled in **dimensioning**, **tolerancing**, and complex mechanical design.
+
+- **CFD Automation**: Automated CFD workflows using **Java** for **STAR-CCM+** and **Python** for **ANSYS Fluent**, streamlining meshing and simulation processes for efficiency.
+
+- **Structural Analysis (ABAQUS)**: Capable of performing structural analyses, particularly for **aircraft components** and **engine parts**, using **ABAQUS**.
+
+- **Software Development**: Proficient in automating and developing custom CFD processes using **Python** and **C++**, particularly for UQ and simulation automation.
+
+- **High-Performance Computing (HPC)**: Experience leveraging **HPC systems** for large-scale CFD simulations.
+
+- **Post-Processing**: Skilled in data analysis and visualization using tools such as:
   - **MATLAB**
-  - **Python** (e.g., Matplotlib, NumPy, and SciPy)
+  - **Python** (Matplotlib, NumPy, SciPy)
   - **ParaView**
   - **Tecplot**
 
 ## 💼 Career Interests
-I am actively seeking opportunities as a:
+
+I am seeking opportunities in roles such as:
 - **CFD Engineer**
 - **Application Engineer**
 - **Verification & Validation Engineer**
 - **CFD Software Developer**
 
-While I am passionate about **aerodynamics** and **CFD** applied to **aerospace** and **automotive** sectors, I am open to other industries where my skills in **simulation** and **uncertainty quantification** can be valuable.
+My primary interests lie in the **aerospace** and **automotive** sectors, but I am open to other industries where my skills in **simulation** and **uncertainty quantification** can make an impact.
 
 ## 📝 Projects
-- **MSc Thesis - Flow Control for Hypersonic Vehicles**: Developed and automated **CFD workflows** for hypersonic flow control using **STAR-CCM+** and integrated uncertainty quantification via **Polynomial Chaos Expansion (PCE)**.
 
-- **Group Project - Onboard Weather Situation Awareness System (OWSAS)**: Designed and coded pathfinding processes using **Python**, applying algorithms such as **Dijkstra's**, **K-means**, and **Delaunay's triangulation** to enhance pilot situational awareness.
+- **MSc Thesis - Polynomial Chaos Expansion for Uncertainty Quantification in Aerospace CFD** (May 2024 - Aug 2024):
+  - Applied **PCE** for UQ in hypersonic CFD simulations using **STAR-CCM+**.
+  - Developed custom Python code integrated with **EasyVVUQ** for UQ workflows.
+  - Simulated a **NACA0012 airfoil** for validation and applied the method to a waverider aircraft.
+  - Automated CFD workflows with Java to improve efficiency.
+  - Performed **GCI studies** to ensure mesh convergence and evaluate discretization errors.
 
-- **Projet PRBE** (Apr 2023 - Jun 2023): Collaborated with **Zephalto** on a project to design a standardized platform inside or outside a nacelle for transporting various scientific or artistic experiments. This involved:
-  - Conducting a literature review on the latest space platform technologies.
-  - Redefining the project requirements and visualizing the design concept.
-  - Material selection using **Granta EduPack**.
-  - Designing a retractable mechanism in **CATIA V6**.
-  - Conducting ecological and financial cost studies.
+- **Group Project - Onboard Weather Situation Awareness System (OWSAS)** (Feb 2024 - May 2024):
+  - Implemented pathfinding algorithms in **Python** (e.g., **Dijkstra's**, **K-means**, **Delaunay's triangulation**) to enhance pilot situational awareness.
 
-- **Projet PRIM** (Feb 2022 - Jun 2022): Mechanical engineering project under the **CATIA V6** environment, focused on:
-  - **Dimensioning**, **tolerancing**, and **industrialization** of part of the mechanical system for a **wind turbine**.
+- **Projet PRBE** (Apr 2023 - Jun 2023):
+  - Collaborated with **Zephalto** to design a standardized platform for scientific or artistic experiments in space.
+  - Defined project requirements, conducted a literature review, and designed a retractable mechanism in **CATIA V6**.
+  - Performed ecological and financial cost analyses.
+
+- **Projet PRIM** (Feb 2022 - Jun 2022):
+  - Led a mechanical engineering project in **CATIA V6**, focused on the design, dimensioning, and industrialization of mechanical systems for a **wind turbine**.
 
 ## 📫 How to Reach Me
-Feel free to contact me via:
-- **Email**: [luca.mattiocco@cranfield.ac.uk](mailto:luca.mattiocco@cranfield.ac.uk) (Preferred)
-- **Secondary Email**: [luca.mattiocco@orange.fr](mailto:luca.mattiocco@orange.fr)
 
-I look forward to collaborating and applying my knowledge and skills to innov
+- **Email**: [luca.mattiocco@cranfield.ac.uk](mailto:luca.mattiocco@cranfield.ac.uk)  
+- **Secondary Email**: [luca.mattiocco@orange.fr](mailto:luca.mattiocco@orange.fr) (Preferred)
+
+I look forward to applying my expertise and collaborating on innovative projects!
