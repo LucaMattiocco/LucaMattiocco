@@ -8,8 +8,8 @@ I am a highly motivated engineer with a strong passion for **aerodynamics** and 
 
 
 ## 🔧 Skills & Expertise
-- **Aero and Fluid Dynamics**: Strong foundation in **aerodynamic principles**, focusing on **stability**, **control**, and **external vehicle aerodynamics**.
-  
+- **Aero and Fluid Dynamics**: Strong foundation in *aerodynamic principles* and *fluid dynamics* and *turbulence* principles given by lectures during MSc degree and personal lectures such as *Fundamentals of Aerodynamics* (John Anderson, Sixth Edition) and *Turbulence: An Introduction for Scientists* (Peter Alan Davidson).
+
 - **CFD Simulations**: Expertise in hypersonic flows and aerodynamic analysis using STAR-CCM+ and ANSYS Fluent. Skilled in both steady and unsteady simulations, with experience in simulating various aircraft, including the JetStream31, Waverider, and aircraft wings such as the Onera M6 and Cessna wing.
 
 - **Uncertainty Quantification**: Implemented **Polynomial Chaos Expansion (PCE)** to validate and quantify uncertainties in **CFD simulations**.
