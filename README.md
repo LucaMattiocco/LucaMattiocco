@@ -45,7 +45,7 @@ My primary interests lie in the **aerospace** and **automotive** sectors, but I 
 
 ## 📝 Projects
 
-### Cranfield Projects
+### Cranfield University Projects
 
 - **MSc Thesis - Polynomial Chaos Expansion for Uncertainty Quantification in Aerospace CFD** (May 2024 - Aug 2024):
   - Applied **PCE** for UQ in hypersonic CFD simulations using **STAR-CCM+**.
@@ -57,7 +57,7 @@ My primary interests lie in the **aerospace** and **automotive** sectors, but I 
 - **Group Project - Onboard Weather Situation Awareness System (OWSAS)** (Feb 2024 - May 2024):
   - Implemented pathfinding algorithms in **Python** (e.g., **Dijkstra's**, **K-means**, **Delaunay's triangulation**) to enhance pilot situational awareness.
 
-### ISAE-Supmeca Projects
+### ISAE-Supméca Projects
 
 - **Project PRBE** (Apr 2023 - Jun 2023):
   - Collaborated with **Zephalto** to design a standardized platform for scientific or artistic experiments in space.
